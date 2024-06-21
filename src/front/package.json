@@ -18,7 +18,7 @@
         "vue": "^2.4.2",
         "vue-router": "^2.3.0",
         "vuex": "^2.0.0-rc.6",
-        "vue-echarts-v3": "1.0.4"
+        "vue-echarts-v3": "1.0.14"
     },
     "devDependencies": {
         "autoprefixer": "^6.7.2",
